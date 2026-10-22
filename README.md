@@ -161,11 +161,17 @@ Representa o fluxo futuro proposto, incluindo oportunidades de automação, inte
 
 **Arquivos principais do TO-BE:**
 
-- [Diagrama BPMN TO-BE — XML](./ABDesign_TO_BE.xml)
-- [Diagrama BPMN TO-BE — PDF](./ABDesign_TO_BE.pdf)
-- [Versão de desenvolvimento — XML](./ABDesign_TOBE_emtrabalho.xml)
+- [Diagrama BPMN TO-BE — XML](./bpmn/TO-BE/ABDesign_TO_BE.xml)
+- [Diagrama BPMN TO-BE — PDF](./bpmn/TO-BE/ABDesign_TO_BE.pdf)
+- [Diagrama BPMN AS-IS — XML](./bpmn/AS-IS/ABDesign_AS-IS.xml)
 
 Os arquivos XML podem ser abertos e editados utilizando o [Draw.io](https://app.diagrams.net/).
+
+
+### 📄 Acesso à Monografia
+
+📖 **[Clique aqui para visualizar a Monografia ABDesign (PDF)](./docs/Monografia%20ABDesign.pdf)**
+
 
 ---
 
